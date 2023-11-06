@@ -1,4 +1,4 @@
-<img src="docs/img/fig_graph_abs.png" width="400">
+<img src="docs/img/fig_graph_abs.png">
 
 # ConvNet-VAE: Integrating single-cell multimodal epigenomic data using 1D-convolutional neural networks
 
