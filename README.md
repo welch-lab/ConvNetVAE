@@ -17,11 +17,11 @@ python -m ipykernel install --user --name pyliger --display-name "Python3 (cnn)"
 
 ## Run models
 
-Jupyter notebooks are provided for demo the [mouse brain data] (https://www.dropbox.com/scl/fo/0zuu6irftualnwzd3izqv/h?rlkey=0ifqexeqql21nxaamqqmth678&dl=0).
+Jupyter notebooks are provided for demo the [mouse brain data](https://www.dropbox.com/scl/fo/0zuu6irftualnwzd3izqv/h?rlkey=0ifqexeqql21nxaamqqmth678&dl=0).
 * ConvNet-VAE: `demo_ConvNetVAE_nano_ct_mouse_brain_ATAC_H3K27ac_H3K27me3.ipynb`
 * FC-VAE: `demo_FCVAE_nano_ct_mouse_brain_ATAC_H3K27ac_H3K27me3.ipynb`
 
-To run cross validation, follow the sample code below.
+To run cross validation, follow the sample code below.\
 ConvNet-VAE:
  ```
 cd ConvNetVAE/convnetvae
