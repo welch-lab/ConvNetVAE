@@ -1,3 +1,5 @@
+# line ending: unix
+
 from typing import Optional, Tuple, Union
 
 import torch

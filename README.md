@@ -12,7 +12,7 @@ The parallel profiling of histone modification and chromatin states at single-ce
 conda env create -f env_config.yml
 conda activate convnetvae
 conda install ipykernel
-python -m ipykernel install --user --name pyliger --display-name "Python3 (cnn)"
+python -m ipykernel install --user --name convnetvae --display-name "Python3 (cnn)"
 ```
 
 ## Run models
